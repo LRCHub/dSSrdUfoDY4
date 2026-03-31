@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハツコイソウ (Cover)",
+  "base_artist": "鯨木",
+  "createdAt": "2026-03-31T03:14:13.942027Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハツコイソウ - Cover",
+      "artist": "鯨木",
+      "has_synced": false,
+      "path": "select/pl_01_ハツコイソウ_-_Cover_鯨木.txt"
+    }
+  ]
+}
